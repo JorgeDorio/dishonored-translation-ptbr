@@ -40,4 +40,4 @@ Abra o jogo. [cite_start]Os textos de interação (como "`GBA_Use` Pegar"), obje
 
 ## ⚖️ Créditos
 - Tradução gerada via script Python utilizando a API do **DeepSeek**.
-- Revisão técnica de tags e variáveis por [Jorge Dorio](github.com/jorgedorio).
+- Revisão técnica de tags e variáveis por [Jorge Dorio](https://github.com/JorgeDorio).
