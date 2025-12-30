@@ -1,15 +1,15 @@
 # Dishonored 1 - Tradução PT-BR (IA DeepSeek)
 
-Este projeto apresenta uma tradução completa dos textos de **Dishonored 1** para Português do Brasil. [cite_start]A tradução foi realizada de forma automatizada utilizando a API da IA **DeepSeek**, com foco em preservar termos técnicos do jogo e manter a ambientação original. [cite: 1, 12, 60]
+Este projeto apresenta uma tradução completa dos textos de **Dishonored 1** para Português do Brasil. A tradução foi realizada de forma automatizada utilizando a API da IA **DeepSeek**, com foco em preservar termos técnicos do jogo e manter a ambientação original. 
 
 ## 📋 Conteúdo Traduzido
-- [cite_start]Diálogos e legendas de missões. [cite: 14, 49]
-- [cite_start]Documentos, livros e notas encontrados pelo mundo. [cite: 7, 12, 34]
-- [cite_start]Descrições de itens, melhorias de Piero e inventário. [cite: 1, 4]
-- [cite_start]Interface do usuário (HUD) e menus. [cite: 11]
+- Diálogos e legendas de missões. 
+- Documentos, livros e notas encontrados pelo mundo. 
+- Descrições de itens, melhorias de Piero e inventário. 
+- Interface do usuário (HUD) e menus. 
 
 ## ⚠️ Requisito Importante
-[cite_start]Esta tradução foi baseada nos arquivos originais em inglês (pasta **INT**). [cite: 1] Para que ela funcione, seu jogo deve estar configurado para o idioma inglês nas propriedades da Steam/Epic Games.
+Esta tradução foi baseada nos arquivos originais em inglês (pasta **INT**). Para que ela funcione, seu jogo deve estar configurado para o idioma inglês nas propriedades da Steam/Epic Games.
 
 ---
 
@@ -30,13 +30,13 @@ Antes de qualquer alteração, é essencial salvar os arquivos originais:
 4. Cole a pasta **INT** baixada e, quando o Windows perguntar, selecione **"Substituir os arquivos no destino"**.
 
 ### 3. Verificar no Jogo
-Abra o jogo. [cite_start]Os textos de interação (como "`GBA_Use` Pegar"), objetivos e menus já devem aparecer em português. [cite: 1, 11]
+Abra o jogo. Os textos de interação (como "`GBA_Use` Pegar"), objetivos e menus já devem aparecer em português. 
 
 ---
 
 ## 🛠️ Detalhes Técnicos
-- [cite_start]**Codificação:** Os arquivos foram salvos em `UTF-16 LE com BOM` para garantir que acentos e caracteres especiais apareçam corretamente sem erros de fonte. [cite: 1]
-- [cite_start]**Preservação de Tags:** Comandos internos como `` `GBA_Use` `` ou `%s` foram mantidos intactos para não quebrar a funcionalidade dos ícones e variáveis do jogo. [cite: 1, 11]
+- **Codificação:** Os arquivos foram salvos em `UTF-16 LE com BOM` para garantir que acentos e caracteres especiais apareçam corretamente sem erros de fonte. 
+- **Preservação de Tags:** Comandos internos como `` `GBA_Use` `` ou `%s` foram mantidos intactos para não quebrar a funcionalidade dos ícones e variáveis do jogo. 
 
 ## ⚖️ Créditos
 - Tradução gerada via script Python utilizando a API do **DeepSeek**.
